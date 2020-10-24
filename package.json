@@ -1,0 +1,9 @@
+{
+  "name": "quick.eco-mongo",
+  "version": "1.0.0",
+  "main": "./src/Manager.js",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.10.10"
+  }
+}
